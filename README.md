@@ -1,2 +1,2 @@
 # E-commerce
-E-commerce Application
+E-commerce Application that Customer can purchase grocery from that App.
