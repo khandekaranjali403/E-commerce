@@ -1,0 +1,78 @@
+{
+  "productList": [
+    {
+      "productName": "abbb",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 1000,
+      "Comment": "hhhhh",
+      "id": 1
+    },
+    {
+      "productName": "abbbbbb",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 1000,
+      "Comment": "hhhhh",
+      "id": 2
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 400,
+      "Comment": "mamgo",
+      "id": 3
+    },
+    {
+      "productName": "bnnnnnnnnnnnnnnnnnnn",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 800,
+      "Comment": "hjjjjjjjjjjjjjjjjjjjjjjjk",
+      "id": 4
+    },
+    {
+      "productName": "nn",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 900,
+      "Comment": "fff",
+      "id": 5
+    },
+    {
+      "productName": "bnnn",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 90,
+      "Comment": "hjjjj",
+      "id": 6
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10,
+      "Comment": "banana",
+      "id": 7
+    },
+    {
+      "productName": "bbvnnvnnv",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 134455,
+      "Comment": "gghhhjjjkJJSHJH",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

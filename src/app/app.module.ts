@@ -14,6 +14,9 @@ import {MatInputModule} from '@angular/material/input';
 import {MatSelectModule} from '@angular/material/select';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 import {MatRadioModule} from '@angular/material/radio';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
+import {MatTableModule} from '@angular/material/table';
 
 
 
@@ -34,7 +37,12 @@ import {MatRadioModule} from '@angular/material/radio';
     MatInputModule,
     MatSelectModule,
     MatDatepickerModule,
-    MatRadioModule
+    MatRadioModule,
+    ReactiveFormsModule,
+    FormsModule,
+    HttpClientModule,
+    MatTableModule
+
 
   ],
   providers: [],
